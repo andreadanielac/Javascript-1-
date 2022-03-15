@@ -1,0 +1,16 @@
+body {
+    color: #fcbe24;
+    background-color: #18222d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+    color: blue;
+    background-color: #fcbe24;
+    font-size: 20px;
+    
+
+}
